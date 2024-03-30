@@ -1,1 +1,19 @@
 
+EXTENSIONS:
+Prettier-Code formatter
+Tailwind shades
+
+Libraries :
+material ui core :npm install @mui/material @emotion/react @emotion/styled
+Data Grid:npm install @mui/x-data-grid
+material ui icons :npm install @mui/icons-material
+Side bar : react-pro-sidebar
+form :formik
+validation: yup
+calendar: @fullcalendar/core \
+  @fullcalendar/daygrid \
+  @fullcalendar/timegrid \
+  @fullcalendar/list
+
+  nivo:https://nivo.rocks/components
+  @nivo/core  @nivo/pie @nivo/line  @nivo/bar @nivo/geo
